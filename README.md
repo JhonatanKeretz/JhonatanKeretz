@@ -2,7 +2,7 @@
 
 - ⚫ Desenvolvedor Front-End Jr
 - 👨‍🎓 Formado em Sistemas de Informação
-- 🐱‍👤 Atualmente em desenvolvimento e estudos com VueJS / JavaScript / TypeScript e em busca de oportunidades no mercado de trabalho
+- 🐱‍👤 Atualmente em desenvolvimento e estudos com React /VueJS / JavaScript / TypeScript e em busca de oportunidades no mercado de trabalho
 - 🤵 Contato : (47) 997091531
 
 
