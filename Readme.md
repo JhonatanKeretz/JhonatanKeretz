@@ -5,8 +5,8 @@
 </div>
 
 <div>- ⚫   Desenvolvedor Front-End Jr
-- 👨‍🎓   Formação em Sistemas de Informação na Universidade do Contestado - UnC Campus Mafra.
-- 🐱‍👤 Atualmente trabalho como Controlador da Qualidade na Nidec Global Applicance em Itaiopolis/SC.
+        - 👨‍🎓   Formação em Sistemas de Informação na Universidade do Contestado - UnC Campus Mafra.
+        - 🐱‍👤 Atualmente trabalho como Controlador da Qualidade na Nidec Global Applicance em Itaiopolis/SC.
         Amo a área da tecnologia e inovação.
 
 - 🐱‍👤Possuo conhecimento com desenvolvimento Web, com JavaScript, ReactJS, Styled-Components, Python e Django, entre outras tecnologias que aplico meu conhecimento para 
