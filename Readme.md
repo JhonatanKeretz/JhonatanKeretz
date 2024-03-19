@@ -1,9 +1,10 @@
 <h1> Olá, me chamo Jhonatan Keretz seja bem vindo! </h1> 
-<div<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
-<br></div>
 
+<div
+<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
+</div>
 
-- ⚫   Desenvolvedor Front-End Jr
+<div>- ⚫   Desenvolvedor Front-End Jr
 - 👨‍🎓   Formação em Sistemas de Informação na Universidade do Contestado - UnC Campus Mafra.
 - 🐱‍👤 Atualmente trabalho como Controlador da Qualidade na Nidec Global Applicance em Itaiopolis/SC.
         Amo a área da tecnologia e inovação.
@@ -15,6 +16,8 @@
 
 - 🤵 Sou uma pessoa PCD: CID Q 66
 - 🤵 Contato : (47) 997091531
+- </div>
+
 - <br>
         Você pode me localizar aqui 👇
 
