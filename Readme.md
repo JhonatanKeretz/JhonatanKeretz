@@ -10,9 +10,9 @@
         Amo a área da tecnologia e inovação.
 
 - 🐱‍👤Possuo conhecimento com desenvolvimento Web, com JavaScript, ReactJS, Styled-Components, Python e Django, entre outras tecnologias que aplico meu conhecimento para 
-      os desenvolvimentos
-      Me considero uma pessoa ágil e de fácil aprendizado, sempre estou em busca de inovações e de olho em melhorias nos processos.
-      Gosto muito de aprender novas tecnologias e ter oportunidades para poder me desenvolver e aplicar o melhor de mim, sempre apto para me adaptar á qualquer mudança e        pronto para superar novos desafios! dedicação e esforço são parte do meu trabalho.
+      os desenvolvimentos. <br>
+      Me considero uma pessoa ágil e de fácil aprendizado, sempre estou em busca de inovações e de olho em melhorias nos processos. <br>
+      Gosto muito de aprender novas tecnologias e ter oportunidades para poder me desenvolver e aplicar o melhor de mim, sempre apto para me adaptar á qualquer mudança e        pronto para superar novos desafios! dedicação e esforço são parte do meu trabalho. <br>
 
 - 🤵 Sou uma pessoa PCD: CID Q 66
 - 🤵 Contato : (47) 997091531
