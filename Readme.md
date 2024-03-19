@@ -54,7 +54,9 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   
  </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatanKeretz&show_icons=true)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianaconde&show_icons=true)
  
  <br/>
  <br>
